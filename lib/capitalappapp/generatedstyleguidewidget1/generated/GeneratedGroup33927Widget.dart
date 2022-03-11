@@ -43,7 +43,7 @@ class GeneratedGroup33927Widget extends StatelessWidget {
               bottom: null,
               width: 94.0,
               height: 34.0,
-              child: GeneratedSemiBoldWidget(),
+              //child: GeneratedSemiBoldWidget(),
             ),
             Positioned(
               left: 232.0,

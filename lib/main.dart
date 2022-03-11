@@ -71,11 +71,11 @@ class CapitalAppApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      initialRoute: '/GeneratedCoverWidget1',
+      initialRoute: '/GeneratedDoruakWidget1',
       routes: {
         '/GeneratedCoverWidget1': (context) => GeneratedCoverWidget1(),
         '/GeneratedSplashWidget': (context) => GeneratedSplashWidget(),
-        '/GeneratedSignUpWidget': (context) => GeneratedSignUpWidget(),
+        //'/GeneratedSignUpWidget': (context) => GeneratedSignUpWidget(),
         '/GeneratedLoginWidget': (context) => GeneratedLoginWidget(),
         '/GeneratedVefificationCodeWidget': (context) => GeneratedVefificationCodeWidget(),
         '/GeneratedRessetPasswordWidget': (context) => GeneratedRessetPasswordWidget(),
